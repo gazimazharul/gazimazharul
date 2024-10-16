@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gazi Mazharul Islam</h1>
-- 🔭 I’m currently working on a Research project named ** Handling Missing Information on EEG Dataset using Fuzzy Adaptive Imputation Approach **
+- 🔭 I’m currently working on a Research project named <b>Handling Missing Information on EEG Dataset using Fuzzy Adaptive Imputation Approach</b>
 
 - 🌱 I’m currently learning **Data Science with Python**
 
