@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gazi Mazharul islam</h1>
+<h1 align="center">Hi 👋, I'm Gazi Mazharul Islam</h1>
 - 🔭 I’m currently working on **Fuzzy Adaptive Imputation Approach (FAIA)**
 
 - 🌱 I’m currently learning **Data Science with Python Course**
