@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gazi Mazharul Islam</h1>
-- 🔭 I’m currently working on **Fuzzy Adaptive Imputation Approach (FAIA)**
+- 🔭 I’m currently working on a Research project named **Fuzzy Adaptive Imputation Approach (FAIA)**
 
-- 🌱 I’m currently learning **Data Science with Python Course**
+- 🌱 I’m currently learning **Data Science with Python**
 
 - 💬 Ask me about **Data Science, Machine Learning, Software Testing, Cyber Security**
 
