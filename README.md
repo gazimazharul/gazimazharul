@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **mazharul.cse3.bu@gmail.com**
 
-- ⚡ Fun fact **Code and Fix**
+- ⚡ Fun fact **Error: 0 || 1**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
